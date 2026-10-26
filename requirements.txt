@@ -1,0 +1,27 @@
+# Núcleo numérico y de datos
+numpy
+scipy
+pandas
+matplotlib
+openpyxl
+
+# Econometría y análisis espacial
+geopandas
+libpysal
+esda
+spreg
+statsmodels
+mapclassify
+
+# Visualización e interfaz
+folium
+plotly
+gradio
+mapbox-earcut
+
+# Auditoría de código
+pyflakes
+
+# Opcionales: solo si cambia FUENTE_SAT a 'rasterio' o 'gee' en CONFIG
+# rasterio
+# earthengine-api
